@@ -1,6 +1,19 @@
 
 /* Your CSS Code here. */
-
+.l{
+	background-color:rgb(217,217,217);
+}
+.e{
+	background-color:rgb(242,220,219);
+}
+.c{
+	background-color:rgb(192,80,77);
+	color:white;
+}
+.d{
+	background-color:rgb(218,150,148);
+	color:white;
+}
 table, th, td {
   border: 1px solid black;
 border-collapse: collapse;
